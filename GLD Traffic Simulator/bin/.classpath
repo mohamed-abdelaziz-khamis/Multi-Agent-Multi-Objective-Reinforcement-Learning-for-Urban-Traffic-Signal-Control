@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="src/|jars/|mapsSeung/|RedesEjemplo/|PartialObservabilityMDP/|resources/" kind="src" path=""/>
+	<classpathentry kind="src" path="resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="jars/jax-qname.jar"/>
+	<classpathentry kind="lib" path="jars/jaxb-api.jar"/>
+	<classpathentry kind="lib" path="jars/jaxb-impl.jar"/>
+	<classpathentry kind="lib" path="jars/jaxb-libs.jar"/>
+	<classpathentry kind="lib" path="jars/jaxb-xjc.jar"/>
+	<classpathentry kind="lib" path="jars/jaxp-api.jar"/>
+	<classpathentry kind="lib" path="jars/namespace.jar"/>
+	<classpathentry kind="lib" path="jars/relaxngDatatype.jar"/>
+	<classpathentry kind="lib" path="jars/xercesImpl.jar"/>
+	<classpathentry kind="lib" path="jars/xml-apis.jar"/>
+	<classpathentry kind="lib" path="jars/xmlParserAPIs.jar"/>
+	<classpathentry kind="lib" path="jars/xsdlib.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

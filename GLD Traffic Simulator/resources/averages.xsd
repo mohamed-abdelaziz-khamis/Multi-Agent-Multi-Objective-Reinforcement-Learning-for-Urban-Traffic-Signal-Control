@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <xsd:element name="tracks">
+        <xsd:complexType>
+            <xsd:sequence>
+                <xsd:element ref="track"  minOccurs="1" maxOccurs="unbounded"/>
+            </xsd:sequence>
+            <xsd:attribute name="timestamp" type="xsd:string" use="optional" />
+		</xsd:complexType>
+    </xsd:element>
+    <xsd:element name="track">
+    	<xsd:complexType>
+    		<xsd:sequence>
+    			<xsd:element name="roadUsersWaiting" type="xsd:float" minOccurs="1" maxOccurs="1"/>
+    		</xsd:sequence>
+    		<xsd:attribute name="id" type="xsd:string" use="required" />
+    	</xsd:complexType>
+    </xsd:element>
+</xsd:schema>

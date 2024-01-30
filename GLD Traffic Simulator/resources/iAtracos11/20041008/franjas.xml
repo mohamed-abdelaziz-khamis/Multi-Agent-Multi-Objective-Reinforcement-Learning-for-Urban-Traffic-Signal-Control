@@ -1,0 +1,39 @@
+<!-- Para utilizar en la prueba del día 30-09-2004 -->
+<franjas>
+	<franja>
+		<edgenode id="0">
+			<car>0.30</car>
+			<bus>0.15</bus>
+			<bicycle>0.0</bicycle>
+		</edgenode>
+		<edgenode id="1">
+			<car>0.05</car>
+			<bus>0.02</bus>
+			<bicycle>0.0</bicycle>
+		</edgenode>
+	</franja>
+	<franja>
+		<edgenode id="0">
+			<car>0.1</car>
+			<bus>0.01</bus>
+			<bicycle>0.0</bicycle>
+		</edgenode>
+		<edgenode id="1">
+			<car>0.1</car>
+			<bus>0.01</bus>
+			<bicycle>0.0</bicycle>
+		</edgenode>
+	</franja>
+	<franja> 
+		<edgenode id="0">
+			<car>0.05</car>
+			<bus>0.02</bus>
+			<bicycle>0.0</bicycle>
+		</edgenode>
+		<edgenode id="1">
+			<car>0.3</car>
+			<bus>0.15</bus>
+			<bicycle>0.0</bicycle>
+		</edgenode>
+	</franja>
+</franjas>

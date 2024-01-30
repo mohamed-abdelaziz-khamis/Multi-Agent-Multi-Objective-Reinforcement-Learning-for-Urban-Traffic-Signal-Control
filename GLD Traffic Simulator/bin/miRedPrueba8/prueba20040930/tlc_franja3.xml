@@ -1,0 +1,68 @@
+<infra src="">
+	<node id="0"/>
+	<node id="1"/>
+	<node id="2"/>
+	<node id="3"/>
+	<node id="4">
+		<conf id="0" interval="30" order="0"/>
+		<conf id="1" interval="30" order="1"/>
+		<conf id="2" interval="30" order="2"/>
+	</node>
+	<node id="5">
+		<conf id="0" interval="30" order="0"/>
+		<conf id="1" interval="30" order="1"/>
+		<conf id="2" interval="30" order="2"/>
+	</node>
+	<node id="6">
+		<conf id="0" interval="30" order="0"/>
+		<conf id="1" interval="30" order="1"/>
+		<conf id="2" interval="30" order="2"/>
+	</node>
+	<node id="7">
+		<conf id="0" interval="30" order="0"/>
+		<conf id="1" interval="30" order="1"/>
+		<conf id="2" interval="30" order="2"/>
+		<conf id="3" interval="30" order="3"/>
+	</node>
+	<node id="8">
+		<conf id="0" interval="30" order="0"/>
+		<conf id="1" interval="30" order="1"/>
+		<conf id="2" interval="30" order="2"/>
+	</node>
+	<node id="9">
+		<conf id="0" interval="30" order="0"/>
+		<conf id="1" interval="30" order="1"/>
+		<conf id="2" interval="30" order="2"/>
+	</node>
+	<node id="10">
+		<conf id="0" interval="30" order="0"/>
+		<conf id="1" interval="30" order="1"/>
+		<conf id="2" interval="30" order="2"/>
+	</node>
+	<node id="11">
+		<conf id="0" interval="30" order="0"/>
+		<conf id="1" interval="30" order="1"/>
+		<conf id="2" interval="30" order="2"/>
+	</node>
+	<node id="12">
+		<conf id="0" interval="30" order="0"/>
+		<conf id="1" interval="30" order="1"/>
+		<conf id="2" interval="30" order="2"/>
+	</node>
+	<node id="13">
+		<conf id="0" interval="30" order="0"/>
+		<conf id="1" interval="30" order="1"/>
+		<conf id="2" interval="30" order="2"/>
+	</node>
+	<node id="14">
+		<conf id="0" interval="30" order="0"/>
+		<conf id="1" interval="30" order="1"/>
+		<conf id="2" interval="30" order="2"/>
+	</node>
+	<node id="15">
+		<conf id="0" interval="30" order="0"/>
+		<conf id="1" interval="30" order="1"/>
+		<conf id="2" interval="30" order="2"/>
+	</node>
+</infra>
+		

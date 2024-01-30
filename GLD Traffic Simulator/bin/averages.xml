@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tracks timestamp="" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="averages.xsd">
+	<track id="1">
+		<roadUsersWaiting>80.0</roadUsersWaiting>
+	</track>
+	<track id="2">
+		<roadUsersWaiting>2.0</roadUsersWaiting>
+	</track>
+</tracks>
